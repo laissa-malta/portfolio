@@ -1,0 +1,12 @@
+{
+  "t_test": {
+    "stat": 2.9134412729719683,
+    "p_value": 0.010282440159564183,
+    "H0": "mean_male == mean_female"
+  },
+  "mann_whitney": {
+    "stat": 83.0,
+    "p_value": 0.014019277113959953,
+    "H0": "distributions_equal"
+  }
+}
